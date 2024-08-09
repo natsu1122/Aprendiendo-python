@@ -1,0 +1,1 @@
+print("Tu cerza se llama:\n" + "\"" + input("¿Que color te gusta?: ") +" "+ input("¿a la grande le puse?: ")+"\"")
